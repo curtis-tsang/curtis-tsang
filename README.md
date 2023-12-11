@@ -1,12 +1,12 @@
-👋 Hi, I’m @curtis-tsang
-✅ Software Engineering
-✅ Data Analytics
+👋 Hi, I’m @curtis-tsang<br />
+✅ Software Engineering<br />
+✅ Data Analytics<br />
 
-😌 Programming experience in C++, Python, HTML, CSS, Javascript and C
-🌱 Currently learning Javascript
-    >> maybe Java later? I love coffee   ____
-                                        (-'v')-cu
-📫 Moreore about me >> https://curtis-tsang.github.io/
+😌 Programming experience in C++, Python, HTML, CSS, Javascript and C<br />
+🌱 Currently learning Javascript<br />
+    >> maybe Java later? I love coffee   ____<br />
+                                        (-'v')-cu<br />
+📫 Moreore about me >> https://curtis-tsang.github.io/<br />
 
 <!---
 curtis-tsang/curtis-tsang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
