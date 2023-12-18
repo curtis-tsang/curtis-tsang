@@ -4,7 +4,7 @@
 
 😌 Programming experience in C++, Python, HTML, CSS, Javascript and C<br />
 🌱 Currently learning Javascript<br />
-    >> maybe Java later? I love coffee
+    >> go deeper in Python in future
 (-'v')-cu<br />
 📫 Moreore about me >> https://curtis-tsang.github.io/<br />
 
